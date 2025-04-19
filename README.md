@@ -1,8 +1,7 @@
-# lora-agnews-classification
+# LoRA Fine-Tuning on RoBERTa for AGNEWS Classification under 1M params
 Fine-tuning RoBERTa on the AGNEWS dataset using Low-Rank Adaptation (LoRA) under 1 million trainable parameters — NYU Deep Learning Project, Spring 2025.
 
-
-# LoRA Fine-Tuning on RoBERTa for AGNEWS Classification under 1M params
+---
 
 **NYU Deep Learning - Spring 2025**  
 **Project 2 | Team Members: Abhinav Gupta, Rishi Kaushik, Morgan Waddington**  
