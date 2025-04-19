@@ -29,7 +29,7 @@ We applied custom preprocessing, filtering out extreme-length examples and remov
 
 ---
 
-## 🔍 Model Architecture
+## Model Architecture
 
 - **Base Model:** [`roberta-base`](https://huggingface.co/roberta-base)
 - **Adaptation Technique:** LoRA (Low-Rank Adaptation)
@@ -92,8 +92,8 @@ This project builds on the work of many researchers, developers, and community c
      https://www.kaggle.com/code/keithcooper/multi-class-classification-with-transformer-models
 
 3. Generative Assistance
-   We used ChatGPT and Perplexity.ai to assist with idea exploration, debugging, and writing.
-   All outputs were reviewed and adapted by team members to meet academic standards.
+   - We used ChatGPT and Perplexity.ai to assist with idea exploration, debugging, and writing.
+     All outputs were reviewed and adapted by team members to meet academic standards.
 
 
 
